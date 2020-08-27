@@ -119,7 +119,7 @@ body.index.modules_invoiceManager .header {
 	background-size: 100%;
 	background-repeat: no-repeat;
 	background-position: center center;
-	background-image: url('../img/logo.png');
+	background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/logo.png');
 }
 .header .navbar-nav {
 	margin-top: 20px;
@@ -832,7 +832,7 @@ ul.sidebar-list li a:hover {
     display: inline-block;
     width: 8px;
     height: 8px;
-    background-image: url('../img/caret.svg?2');
+    background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/caret.svg?2');
     background-position: center center;
     background-repeat: no-repeat;
     background-size: 100%;
@@ -1174,13 +1174,13 @@ ul.sidebar-list li a:hover {
 	background-size: 100%;
 }
 .section-news .news-img1 {
-	background-image: url('../img/bg/news_bg_01.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/bg/news_bg_01.jpg');
 }
 .section-news .news-img2 {
-	background-image: url('../img/bg/news_bg_02.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/publhttps://cdn.jsdelivr.net/gh/pccvcom/static/public/imageses/bg/news_bg_02.jpg');
 }
 .section-news .news-img3 {
-	background-image: url('../img/bg/news_bg_03.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/publhttps://cdn.jsdelivr.net/gh/pccvcom/static/public/imageses/bg/news_bg_03.jpg');
 }
 .section-news .news-title {
 	color: #FFF;
@@ -1238,7 +1238,7 @@ ul.sidebar-list li a:hover {
 	font-size: 16px;
 }
 .pages .page-hero {
-	background-image: url('../img/datacentrum-10-lax.jpg');
+	background-image: url('https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacentrum-10-lax.jpg');
 	background-position: center -200px;
 	background-size: cover;
 	position: relative;
@@ -1468,79 +1468,79 @@ ul.sidebar-list li a:hover {
     width: 100%;
 }
 .datacenter-img-bg.us.one {
-    background-image: url(../img/datacenter/us1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us1.png);
 }
 .datacenter-img-bg.us.two {
-    background-image: url(../img/datacenter/us2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us2.png);
 }
 .datacenter-img-bg.us.three {
-    background-image: url(../img/datacenter/us3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us3.png);
 }
 .datacenter-img-bg.us.four {
-    background-image: url(../img/datacenter/us4.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us4.png);
 }
 .datacenter-img-bg.us.five {
-    background-image: url(../img/datacenter/us5.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us5.png);
 }
 .datacenter-img-bg.us.six {
-    background-image: url(../img/datacenter/us6.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/us6.png);
 }
 
 .datacenter-img-bg.hk.one {
-    background-image: url(../img/datacenter/hk1.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk1.jpg);
 }
 .datacenter-img-bg.hk.two {
-    background-image: url(../img/datacenter/hk2.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk2.jpg);
 }
 .datacenter-img-bg.hk.three {
-    background-image: url(../img/datacenter/hk3.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk3.jpg);
 }
 .datacenter-img-bg.hk.four {
-    background-image: url(../img/datacenter/hk4.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk4.jpg);
 }
 .datacenter-img-bg.hk.five {
-    background-image: url(../img/datacenter/hk5.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk5.jpg);
 }
 .datacenter-img-bg.hk.six {
-    background-image: url(../img/datacenter/hk6.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/hk6.jpg);
 }
 
 .datacenter-img-bg.cn.one {
-    background-image: url(../img/datacenter/cn1.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn1.jpg);
 }
 .datacenter-img-bg.cn.two {
-    background-image: url(../img/datacenter/cn2.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn2.jpg);
 }
 .datacenter-img-bg.cn.three {
-    background-image: url(../img/datacenter/cn3.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn3.jpg);
 }
 .datacenter-img-bg.cn.four {
-    background-image: url(../img/datacenter/cn4.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn4.jpg);
 }
 .datacenter-img-bg.cn.five {
-    background-image: url(../img/datacenter/cn5.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn5.jpg);
 }
 .datacenter-img-bg.cn.six {
-    background-image: url(../img/datacenter/cn6.jpg);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/cn6.jpg);
 }
 
 .datacenter-img-bg.kr.one {
-    background-image: url(../img/datacenter/kr1.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr1.png);
 }
 .datacenter-img-bg.kr.two {
-    background-image: url(../img/datacenter/kr2.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr2.png);
 }
 .datacenter-img-bg.kr.three {
-    background-image: url(../img/datacenter/kr3.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr3.png);
 }
 .datacenter-img-bg.kr.four {
-    background-image: url(../img/datacenter/kr4.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr4.png);
 }
 .datacenter-img-bg.kr.five {
-    background-image: url(../img/datacenter/kr5.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr5.png);
 }
 .datacenter-img-bg.kr.six {
-    background-image: url(../img/datacenter/kr6.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/datacenter/kr6.png);
 }
 
 .pt_head,
@@ -1822,7 +1822,7 @@ table.dataTable thead .sorting_desc:after {
     background-size: 100%;
     background-repeat: no-repeat;
     background-position: center center;
-    background-image: url(../img/logo.png);
+    background-image: url(https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/logo.png);
 }
 .footer-btm a {
 	color: hsla(0,0%,100%,.85);

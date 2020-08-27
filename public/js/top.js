@@ -5,7 +5,7 @@ var scrolltotop={
 		scrollduration:400, 
 		fadeduration:[500,100] 
 	},
-	controlHTML:'<img src="/templates/cloud/assets/img/top.png" style="width:35px; height:35px; border:0;" />', 
+	controlHTML:'<img src="https://cdn.jsdelivr.net/gh/pccvcom/static/public/images/top.png" style="width:35px; height:35px; border:0;" />', 
 	controlattrs:{offsetx:10,offsety:10},
 	anchorkeyword:"#top",
 	state:{

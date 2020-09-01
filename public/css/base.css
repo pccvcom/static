@@ -1,12 +1,12 @@
 body, button, input, select, textarea,
 h1, h2, h3, h4, h5, h6 {
-    font-family: -apple-system,BlinkMacSystemFont,Segoe UI,PingFang SC,Hiragino Sans GB,Microsoft YaHei,Helvetica Neue,Helvetica,Arial,simsun,sans-serif !important;
+    font-family: "Times New Roman", Times, serif;
 }
 
 body {
     font-size: 14px;
     font-weight: 400;
-    line-height: 1.5;
+    line-height: 25px;
     color: #637283;
     background-color: #f5f7fa;
     -webkit-font-smoothing: antialiased;
@@ -965,7 +965,7 @@ ul.sidebar-list li a:hover {
 	font-size: 25px;
 	font-weight: 500;
 	margin: 0 0 20px;
-	font-family: Ubuntu, sans-serif;
+	font-family: "Times New Roman", Times, serif;
 }
 .product-main .product-left h2 p {
 	font-size: 14px;
@@ -1008,10 +1008,10 @@ ul.sidebar-list li a:hover {
 .product-main .product-right .plan-title {
 	padding: 30px 0 0;
     margin: 0 20px;
-	font-family: Ubuntu, sans-serif;
+	font-family: "Times New Roman", Times, serif;
 }
 .product-main .product-right .plan-title h3 {
-	font-family: Ubuntu, sans-serif;
+	font-family: "Times New Roman", Times, serif;
 	margin: 0;
 	color: #333;
 	font-size: 22px;
@@ -1138,7 +1138,7 @@ ul.sidebar-list li a:hover {
 }
 .text-light {
     color: #f9fafd!important;
-    font-family: "Ubuntu",-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,"Apple Color Emoji","Segoe UI Emoji","Segoe UI Symbol",sans-serif;
+    font-family: "Times New Roman", Times, serif;
 }
 .pb-2, .py-2 {
     padding-bottom: .5rem!important;
@@ -2173,7 +2173,7 @@ div.product-details-tab-container {
     border-bottom: 0 none;
 }
 .nav-tabs > li {
-    margin: 0 20px 0 0;
+    margin: 0 15px 0 0;
 }
 .nav-tabs > li > a {
     color: #666;

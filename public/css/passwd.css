@@ -105,7 +105,7 @@
 #slider {
 	-webkit-appearance: none;
 	width: calc(100% - (70px));
-	height: 2px;
+	height: 3px;
 	border-radius: 4px;
 	outline: 0;
 	padding: 0;
